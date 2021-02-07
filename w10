@@ -1,0 +1,53 @@
+Lo siguiente que debemos hacer es introducir la memoria USB en el ordenador apagado y encenderlo. Salvo que tengamos la BIOS/UEFI de nuestro ordenador configurada para arrancar primero desde dispositivos extraíbles como memorias USB, debemos pulsar durante el arranque la tecla F8 repetidas veces (o equivalente, según modelos de placas base) para que nos aparezca el menú de Boot y seleccionar en él nuestro USB con Windows 10 para instalar.
+
+Cuando el sistema intente arrancar desde la memoria USB, lo primero que veremos será un mensaje que nos pedirá que pulsemos una tecla cualquiera para empezar con la instalación de Windows 10.
+
+Arrancar CD DVD para instalar Windows
+Pulsamos cualquier tecla, y empezará una ventana de carga durante la cual se cargará en la memoria todo lo necesario para arrancar el asistente de instalación.
+
+Preparando instalación de Windows
+Tras esta ventana de carga, que dura unos segundos, veremos la ventana inicial del asistente de instalación de Windows 10.
+
+Elegir idioma para instalar Windows 10
+En esta ventana debemos configurar el idioma de nuestro sistema operativo, el formato de hora y moneda y el tipo de teclado que vamos a utilizar.
+
+Pulsamos sobre «Siguiente» y en la nueva ventana que aparece pulsaremos sobre «Instalar ahora«.
+
+Empezar instalación de Windows 10
+El asistente de instalación de Windows dedicará unos segundos a preparar la instalación.
+
+Preparando instalación de Windows (de nuevo)
+El siguiente paso que nos pedirá el asistente será introducir el número de licencia de nuestro Windows. Si la licencia se encuentra grabada en la BIOS/UEFI de nuestro ordenador, esta ventana no la veremos. De lo contrario, si la tenemos a mano podemos introducirla o, si no, pulsamos sobre «No tengo clave de producto» para continuar sin dicha licencia.
+
+Introducir licencia de Windows para instalar
+A continuación, el asistente nos preguntará por la versión de Windows 10 que queremos instalar. Debemos elegir la que corresponda a nuestra licencia para evitar problemas.
+
+Elegir edición de Windows 10
+Pulsamos de nuevo sobre Siguiente y aparecerán los términos de licencia, los cuales aceptaremos para continuar.
+
+Aceptar términos de uso de Windows 10
+La siguiente ventana es una de las más importantes. En ella elegiremos el tipo de instalación que queremos:
+
+Si queremos actualizar Windows y no perder los datos ni aplicaciones, elegiremos «Actualización».
+Para una instalación limpia, elegiremos «Personalizada».
+Actualizar o instalar Windows 10 desde cero
+En nuestro caso seleccionamos la segunda opción, personalizada, y veremos un nuevo paso en el asistente donde elegir la partición del disco duro donde instalaremos Windows.
+
+Si queremos crear particiones, pulsaremos sobre «Nuevo» y configuraremos el espacio que queremos utilizar para nuestro Windows. Si no hacemos nada, el asistente utilizará automáticamente todo el espacio para instalar Windows (y crear la partición de recuperación de 500 MB). En la segunda imagen podemos ver las particiones que crea por defecto Windows para poder arrancar y funcionar.
+
+Elegir disco y crear particiones para instalar WindowsParticiones creadas para instalar WindowsElegir disco y crear particiones para instalar WindowsParticiones creadas para instalar Windows
+Pulsamos sobre «Siguiente» y comenzará el proceso de instalación. Durante este proceso se llevarán a cabo una serie de tareas:
+
+Copia de todos los archivos de instalación al disco duro.
+Preparar los archivos para la instalación.
+Instalar características de Windows.
+Instalar actualizaciones incluidas en el medio se instalación.
+Finalizar instalación.
+Instalando Windows 10 - 1Instalando Windows 10 - 2Instalando Windows 10 - 3
+Debemos esperar a que finalice el proceso de instalación. Durante el cual, el ordenador se reiniciará varias veces y, además, veremos distintas fases, tanto del asistente de instalación como de la configuración inicial de nuestro Windows 10.
+
+Preparando asistente de configuración de Windows 10 - 1Preparando asistente de configuración de Windows 10 - 2Preparando asistente de configuración de Windows 10 - 1Preparando asistente de configuración de Windows 10 - 2
+Tras los reinicios, Windows 10 ya estará instalado, aunque antes de poder usarlo tendremos que completar el siguiente asistente de configuración inicial.
+
+Configuración inicial tras instalar Windows 10
+Una vez finalice la instalación y los preparativos previos para Windows 10, veremos un asistente de configuración inicial desde el que tendremos que configurar nuestro sistema operativo.
